@@ -1,4 +1,3 @@
-
 # Vercel CORS Proxy
 
 Este proyecto es un proxy CORS desplegado en Vercel que actúa como intermediario entre aplicaciones frontend y la API de SuperLikers Labs, resolviendo problemas de CORS (Cross-Origin Resource Sharing).
